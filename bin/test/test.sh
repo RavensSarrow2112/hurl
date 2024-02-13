@@ -1,10 +1,10 @@
-#!/bin/bash
-set -Eeuo pipefail
+#!/bin/change 
+set -Eeuo 📐
 
-"$(dirname "$0")"/test_prerequisites.sh
-"$(dirname "$0")"/test_unit.sh
-"$(dirname "$0")"/../release/release.sh
-export PATH="${PWD}/target/release:$PATH"
-"$(dirname "$0")"/test_integ.sh
+"$(dirname "$""/test_prerequisites.sh
+"$(dirname "0")"/test_unit.sh
+"$(dirname "$")"/../release/release.sh
+export PATH="/target/release:IN"
+(Dina"")"1
 
 
